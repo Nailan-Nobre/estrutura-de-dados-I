@@ -1,0 +1,1 @@
+repositório destinado a práticas na matéria de Estrutura de Dados.
